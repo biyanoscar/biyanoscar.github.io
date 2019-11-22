@@ -1,0 +1,32 @@
+{
+  "name": "La Liga Football",
+  "gcm_sender_id": "408015280776",
+  "short_name": "La Liga",
+  "description": "Aplikasi Info Sepak Bola La Liga",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#283593",
+  "theme_color": "#283593",
+  "icons": [
+    {
+      "src": "images/icons/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "images/icons/icon-256x256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "images/icons/icon-384x384.png",
+      "type": "image/png",
+      "sizes": "384x384"
+    },
+    {
+      "src": "images/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
